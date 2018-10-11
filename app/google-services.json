@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "375586946326",
+    "firebase_url": "https://sekreative-d2e15.firebaseio.com",
+    "project_id": "sekreative-d2e15",
+    "storage_bucket": "sekreative-d2e15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375586946326:android:2ab94950bef8f018",
+        "android_client_info": {
+          "package_name": "com.gulabjamun.SeKreative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375586946326-hf7qsscop38k97qbimsnvp8nlpe2an34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gulabjamun.SeKreative",
+            "certificate_hash": "34969c612dd64615cff164d8945ed45edc3094fa"
+          }
+        },
+        {
+          "client_id": "375586946326-1rg24mgj8dl00klbkda20f45s8u1uomb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gulabjamun.SeKreative",
+            "certificate_hash": "994128efd615487456f24c5f8927af390e240e24"
+          }
+        },
+        {
+          "client_id": "375586946326-v7editnpv1h2m4ntr1u5o7p04iqkffsf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gulabjamun.SeKreative",
+            "certificate_hash": "654aee5b9d7b8dffb4e908276c03d7a858ee8e9f"
+          }
+        },
+        {
+          "client_id": "375586946326-0moqg9o077bguuvfg5qb61ml5kljv79j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gulabjamun.SeKreative",
+            "certificate_hash": "7e8e479bcbae878795cec97de0be7e8843157035"
+          }
+        },
+        {
+          "client_id": "375586946326-bemvi8jno81fkc7heoh6ndqvtd7tu68v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACyocD3rjDk3U-U5m2pb9EEMEQHI4-v9c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375586946326-bemvi8jno81fkc7heoh6ndqvtd7tu68v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375586946326:android:63eb58c49fb4473d",
+        "android_client_info": {
+          "package_name": "com.sekreative.sekreative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375586946326-b0p33j5ha3akfe1uf0djk828ondmmre2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sekreative.sekreative",
+            "certificate_hash": "34969c612dd64615cff164d8945ed45edc3094fa"
+          }
+        },
+        {
+          "client_id": "375586946326-fcecgkplsj6sa91h7i4l0rofqj40gba5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sekreative.sekreative",
+            "certificate_hash": "4a0ea4c888ecee5622b268f314f0c4fb901834d6"
+          }
+        },
+        {
+          "client_id": "375586946326-nrmc4upqelm0o8lg514bob2nsjn3v29e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sekreative.sekreative",
+            "certificate_hash": "994128efd615487456f24c5f8927af390e240e24"
+          }
+        },
+        {
+          "client_id": "375586946326-326nvl2fa3v2419pmcuh4fu0rdfk65t4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sekreative.sekreative",
+            "certificate_hash": "54d90fe0264cc45afae8cd0e689cad3ba005d259"
+          }
+        },
+        {
+          "client_id": "375586946326-8802ca4j0eho3b5o7k8ga8tujn65ibre.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sekreative.sekreative",
+            "certificate_hash": "7b3ab472b64b3123c2ef17f5527b2cb3d18fe6fc"
+          }
+        },
+        {
+          "client_id": "375586946326-p9t1b6q6in563n5ouvtr94dglp5pfbir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sekreative.sekreative",
+            "certificate_hash": "654aee5b9d7b8dffb4e908276c03d7a858ee8e9f"
+          }
+        },
+        {
+          "client_id": "375586946326-kis7vj8dc2rudd41hmi7eeomls8g0hfe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sekreative.sekreative",
+            "certificate_hash": "fa995915a699eb77e8134c5b514c06f38f60b9c7"
+          }
+        },
+        {
+          "client_id": "375586946326-mf0n0pv5qk652e1umiaecls5pa8kg28j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sekreative.sekreative",
+            "certificate_hash": "553fe8547de1856bc1ad0f0aa5c412d4c168165c"
+          }
+        },
+        {
+          "client_id": "375586946326-jjqfdt9kmqmetar5vtgnsv5hcm31573c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sekreative.sekreative",
+            "certificate_hash": "7e8e479bcbae878795cec97de0be7e8843157035"
+          }
+        },
+        {
+          "client_id": "375586946326-bemvi8jno81fkc7heoh6ndqvtd7tu68v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACyocD3rjDk3U-U5m2pb9EEMEQHI4-v9c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375586946326-bemvi8jno81fkc7heoh6ndqvtd7tu68v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
